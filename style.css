@@ -702,6 +702,14 @@ button {
    
 }
 
+@media (max-width:500px){
+    .cards{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
 
 .A1{
     display: flex;
