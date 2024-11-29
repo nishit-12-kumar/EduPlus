@@ -1373,6 +1373,8 @@ margin-bottom: 0.5rem;
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
         text-align: center;
+        margin: 20px;
+        padding-right: 10px;
     }
 }
 
